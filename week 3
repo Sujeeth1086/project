@@ -1,0 +1,93 @@
+<!--Deals of the Day -->
+<section>
+    <div class="section mt-5">
+        <div class="container-fluid">
+            <div class="section-title text-center">
+                <h3> Deals Of The Day</h3>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="deal-box">
+                        <div>
+                            <img src="images/burger-1.jpg"class="img-fluid"alt="">
+                        </div>
+                        <h2>Beef Cheese</h2>
+                        <a class="deal-btn"href="">$16.00</a>
+                    </div>
+                </div>
+                <!----->
+                <div class="col-md-3">
+                    <div class="deal-box">
+                        <div>
+                            <img src="images/burger-2.jpg"class="img-fluid"alt="">
+                        </div>
+                        <h2>...Burger</h2>
+                        <a class="deal-btn"href="">$18.00</a>
+                    </div>
+                </div>
+                <!----->
+                <div class="col-md-3">
+                    <div class="deal-box">
+                        <div>
+                            <img src="images/burger-3.jpg"class="img-fluid"alt="">
+                        </div>
+                        <h2>Beef Cheese</h2>
+                        <a class="deal-btn"href="">$14.00</a>
+                    </div>
+                </div>
+                <!----->
+                <div class="col-md-3">
+                    <div class="deal-box">
+                        <div>
+                            <img src="images/burger-4.jpg"class="img-fluid"alt="">
+                        </div>
+                        <h2>....Cheese</h2>
+                        <a class="deal-btn"href="">$12.00</a>
+                    </div>
+                </div>
+                <!----->
+                <div class="col-md-3">
+                    <div class="deal-box">
+                        <div>
+                            <img src="images/burger-5.jpg"class="img-fluid"alt="">
+                        </div>
+                        <h2>...Burger</h2>
+                        <a class="deal-btn"href="">$16.00</a>
+                    </div>
+                </div>
+                <!----->
+                <div class="col-md-3">
+                    <div class="deal-box">
+                        <div>
+                            <img src="images/burger-6.jpg"class="img-fluid"alt="">
+                        </div>
+                        <h2>Double Cheese</h2>
+                        <a class="deal-btn"href="">$20.00</a>
+                    </div>
+                </div>
+                <!----->
+                <div class="col-md-3">
+                    <div class="deal-box">
+                        <div>
+                            <img src="images/burger-7.jpg"class="img-fluid"alt="">
+                        </div>
+                        <h2>Beef Cheese</h2>
+                        <a class="deal-btn"href="">$16.00</a>
+                    </div>
+                </div>
+                <!----->
+                <div class="col-md-3">
+                    <div class="deal-box">
+                        <div>
+                            <img src="images/burger-salad.jpg"class="img-fluid"alt="">
+                        </div>
+                        <h2>Beef Cheese</h2>
+                        <a class="deal-btn"href="">$16.00</a>
+                    </div>
+                </div>
+                <!----->
+            </div>
+        </div>
+    </div>
+</section>
+<!---End of the Deals-->
