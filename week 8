@@ -1,0 +1,21 @@
+#hero .main-1{
+    background: #eb9a03;
+    border: 2px solid #eb9a03;
+    color:#000;
+    font-weight: bold;
+}
+#hero .main-1:hover{
+    background: none;
+    border: 2px solid #fff;
+    color:#fff;
+    text-decoration: none;
+}
+#hero .main-2{
+    border: 2px solid #fff;
+    color:#fff;
+}
+#hero .main-2:hover{
+    background: #eb9a03;
+    border: 2px solid #eb9a03;
+    text-decoration: none;
+}
